@@ -43,7 +43,7 @@ Used **useState** for managing data and **useEffect** for fetching notes on moun
 ## Folder Structure
 
 ```
-quicknotes/
+pi-shaped-full-stack-workshop-rishika/
 │
 ├── server/
 │ ├── index.js
@@ -54,7 +54,7 @@ quicknotes/
 │ │ ├── App.js
 │ │ └── index.js
 │ ├── package.json
-│
+├── demo.png
 └── README.md
 ```
 ## Core Concept Questions with Answers:
